@@ -1,0 +1,85 @@
+.navbar-brand{
+	background-color: #4aaaa5;
+	padding: 50px;
+
+}
+
+.container-fluid{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+	font-size: 30px;
+}
+
+
+img{
+	margin-right: 15px;
+}
+
+
+
+.navbar-fixed-bottom{
+	padding:20px;
+	background-color: #666666;
+	color:white;
+	font-size: 10px;
+	border-top: 10px solid #4aaaa5;
+	text-align: center;
+}
+
+body {
+	background-image: url(images/hypnotize.png);
+	padding-bottom: 140px;
+}
+
+h2{
+	color:#4aaaa5;
+	border-bottom: solid;
+	border-color: #cccccc;
+}
+
+.col-md-8{
+	padding: 10px;
+	margin-right:60px;
+	background-color: white;
+}
+
+
+.col-md-3{
+	padding:10px;
+	background-color: white;
+}
+
+.portfolio{
+	margin-bottom: 10px;
+}
+
+.form-group{
+	color:#4aaaa5;
+}
+
+
+/*Portfolio Tiles*/
+
+image.tile{
+position: relative;
+margin-bottom: 20px;
+}
+
+p.portfolio {
+position: absolute;
+background-color: #4aaaa5;
+color: white;
+font-weight: bold;
+width: 350px;
+padding: 10px 0 10px 0;
+text-align: center;
+top: 175px;
+}
+
+.row .portfolio{
+	margin-bottom: 10px;
+}
